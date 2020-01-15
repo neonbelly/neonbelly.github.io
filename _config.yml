@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Z.W. Miller
-tagline:             A Moderately Okay Data Science Blog
-url:                 http://zwmiller.github.io
+title:               Jake Moon
+tagline:             New Blog
+url:                 http://neonbelly.github.io
 paginate:            2
 baseurl:             ""
 
@@ -17,9 +17,7 @@ sass:
 
 # About/contact
 author:
-  name:              Zach Miller
-  url:               https://twitter.com/zaglamir
-  email:             zach@thisismetis.com
+  name:              Jake Moon
 
 # Custom vars
 version:             2.0.0
